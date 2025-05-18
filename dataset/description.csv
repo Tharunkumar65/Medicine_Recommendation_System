@@ -1,42 +1,42 @@
 Disease,Description
-Fungal infection,Fungal infection is a common skin condition caused by fungi.
-Allergy,Allergy is an immune system reaction to a substance in the environment.
-GERD,GERD (Gastroesophageal Reflux Disease) is a digestive disorder that affects the lower esophageal sphincter.
-Chronic cholestasis,Chronic cholestasis is a condition where bile flow from the liver is reduced for a prolonged period.
-Drug Reaction,Drug Reaction occurs when the body reacts adversely to a medication.
-Peptic ulcer disease,Peptic ulcer disease involves sores that develop on the inner lining of the stomach and small intestine.
-AIDS,AIDS (Acquired Immunodeficiency Syndrome) is a disease caused by HIV that weakens the immune system.
-Diabetes,Diabetes is a chronic condition that affects how the body processes blood sugar.
-Gastroenteritis,"Gastroenteritis is an inflammation of the stomach and intestines, typically caused by a virus or bacteria."
-Bronchial Asthma,Bronchial Asthma is a respiratory condition characterized by inflammation of the airways.
-Hypertension,"Hypertension, or high blood pressure, is a common cardiovascular condition."
-Migraine,Migraine is a type of headache that often involves severe pain and sensitivity to light and sound.
-Cervical spondylosis,Cervical spondylosis is a degenerative condition of the cervical spine.
-Paralysis (brain hemorrhage),Paralysis (brain hemorrhage) refers to the loss of muscle function due to bleeding in the brain.
-Jaundice,"Jaundice is a yellow discoloration of the skin and eyes, often indicating liver problems."
-Malaria,Malaria is a mosquito-borne infectious disease affecting humans and other animals.
-Chicken pox,Chicken pox is a highly contagious viral infection causing an itchy rash.
-Dengue,Dengue is a mosquito-borne viral infection causing flu-like symptoms.
-Typhoid,Typhoid is a bacterial infection that can lead to a high fever and gastrointestinal symptoms.
-hepatitis A,hepatitis A is a viral liver disease.
-Hepatitis B,Hepatitis B is a viral infection that attacks the liver.
-Hepatitis C,Hepatitis C is a viral infection that causes liver inflammation.
-Hepatitis D,Hepatitis D is a serious liver disease caused by the hepatitis D virus.
-Hepatitis E,Hepatitis E is a viral infection that causes liver inflammation.
-Alcoholic hepatitis,Alcoholic hepatitis is inflammation of the liver due to alcohol consumption.
-Tuberculosis,Tuberculosis is a bacterial infection that primarily affects the lungs.
-Common Cold,Common Cold is a viral infection of the upper respiratory tract.
-Pneumonia,Pneumonia is an inflammatory condition affecting the air sacs in the lungs.
-Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles) is a condition characterized by swollen blood vessels in the rectum.
-Heart attack,Heart attack is a sudden and severe reduction in blood flow to the heart muscle.
-Varicose veins,"Varicose veins are enlarged, twisted veins that usually appear on the legs."
-Hypothyroidism,Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormone.
-Hyperthyroidism,Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone.
-Hypoglycemia,Hypoglycemia is a condition characterized by abnormally low blood sugar levels.
-Osteoarthristis,Osteoarthristis is a degenerative joint disease that affects the cartilage in joints.
-Arthritis,"Arthritis is inflammation of one or more joints, causing pain and stiffness."
-(vertigo) Paroymsal Positional Vertigo,(Vertigo) Paroxysmal Positional Vertigo is a type of dizziness caused by specific head movements.
-Acne,Acne is a skin condition that occurs when hair follicles become clogged with oil and dead skin cells.
-Urinary tract infection,Urinary tract infection is an infection in any part of the urinary system.
-Psoriasis,"Psoriasis is a chronic skin condition characterized by red, itchy, and scaly patches."
-Impetigo,Impetigo is a highly contagious skin infection causing red sores that can break open.
+Fungal infection,"A condition where fungi grow on skin,scalp, especially in warm and moist areas; common after exposure to infected surfaces."
+Allergy,"A reaction where the immune system overreacts to harmless substances like pollen, dust, or certain foods; can range from mild to severe."
+GERD,"A long-term digestive disorder where stomach acid repeatedly flows back into the esophagus, causing irritation and discomfort."
+Chronic cholestasis,"A liver condition where bile flow is reduced or blocked over a long period, affecting digestion and possibly causing liver damage."
+Drug Reaction,"An unexpected or harmful response to a medicine, which can range from mild side effects to serious health risks."
+Peptic ulcer disease,"A condition where sores develop on the inner lining of the stomach or small intestine, often due to infection or long-term use of certain painkillers."
+AIDS,"A life-threatening disease caused by the HIV virus, severely weakening the immune system and increasing the risk of infections and cancers."
+Diabetes,"A chronic disease where the body cannot properly process blood sugar due to lack of insulin or insulin resistance, leading to long-term health problems."
+Gastroenteritis,"An infection causing inflammation of the stomach and intestines, often spread through contaminated food, water, or contact with infected people."
+Bronchial Asthma,"A condition where the airways become inflamed and narrow, making breathing difficult, often triggered by allergens or pollution."
+Hypertension,"A long-term condition where the blood pressure in the arteries is consistently too high, which can quietly damage the heart and blood vessels."
+Migraine,"A neurological condition that causes severe, often one-sided headaches along with nausea and sensitivity to light and sound."
+Cervical spondylosis,"Cervical spondylosis is a condition that affects the spine in the neck (the cervical spine) and is commonly associated with aging. It's the result of wear and tear on the bones, discs, and joints of the neck over time."
+Paralysis (brain hemorrhage),"A sudden loss of muscle control due to bleeding in the brain, which can damage areas responsible for movement and speech."
+Jaundice,"A condition where the skin and eyes turn yellow due to high bilirubin levels, often signaling liver or bile duct problems."
+Malaria,"A serious disease caused by parasites transmitted through mosquito bites, common in tropical regions and can be life-threatening if untreated."
+Chicken pox,"A highly contagious viral infection that causes an itchy rash and red spots, mostly in children, and usually provides lifelong immunity."
+Dengue,"A mosquito-borne viral infection causing high fever, severe pain, and in severe cases, bleeding and organ failure."
+Typhoid,"A bacterial infection spread through contaminated food or water, affecting the digestive system and sometimes becoming life-threatening."
+Hepatitis A,"A viral liver infection spread mainly through contaminated food or water, which usually resolves on its own without long-term liver damage."
+Hepatitis B,"A serious liver infection caused by the hepatitis B virus, which can become chronic and increase the risk of liver failure and cancer."
+Hepatitis C,"A viral infection that mainly affects the liver and can lead to chronic liver disease, often spread through blood contact."
+Hepatitis D,"A rare liver infection that only occurs in people already infected with hepatitis B, worsening liver complications."
+Hepatitis E,"A viral liver infection usually spread by drinking contaminated water; generally mild but can be serious in pregnant women."
+Alcoholic hepatitis,"Liver inflammation caused by long-term heavy drinking, which can range from mild to severe and may lead to liver failure."
+Tuberculosis,"A bacterial infection that mainly affects the lungs but can spread to other organs; it is airborne and can be serious if untreated."
+Common Cold,"A viral infection of the nose and throat, usually mild and self-limiting, but very common worldwide."
+Pneumonia,"An infection that inflames the air sacs in one or both lungs, caused by bacteria, viruses, or fungi, ranging from mild to life-threatening."
+Dimorphic hemorrhoids (piles),"Swollen veins in the lower rectum or anus, which can cause pain, itching, and bleeding, especially during bowel movements."
+Heart attack,"A medical emergency where blood flow to part of the heart is blocked, damaging heart muscle and requiring urgent care."
+Varicose veins,"Enlarged, twisted veins usually seen in the legs, caused by weak vein valves that allow blood to pool."
+Hypothyroidism,"A condition where the thyroid gland doesn't produce enough hormones, leading to fatigue, weight gain, and slowed body functions."
+Hyperthyroidism,"A condition where the thyroid gland makes too much hormone, causing weight loss, a fast heartbeat, and nervousness."
+Hypoglycemia,"A condition where blood sugar levels drop too low, often seen in people with diabetes, which can cause dizziness and confusion."
+Osteoarthritis,"A joint disease where cartilage wears down over time, leading to pain, stiffness, and reduced flexibility, often in the knees and hips."
+Arthritis,"A general term for joint inflammation, covering many conditions that cause swelling, pain, and stiffness in the joints."
+(Vertigo) Paroxysmal Positional Vertigo,"A balance disorder causing brief episodes of dizziness when you move your head in certain ways, due to inner ear problems."
+Acne,"A skin condition where pores become clogged with oil and dead skin cells, leading to pimples and blackheads, common in teens."
+Urinary tract infection,"An infection in any part of the urinary system, more common in women, causing pain during urination and frequent urges to urinate."
+Psoriasis,"A long-lasting skin condition that speeds up the life cycle of skin cells, causing thick, scaly patches that can itch or hurt."
+Impetigo,"A contagious skin infection mostly seen in children, causing red sores that can burst and develop honey-colored crusts."

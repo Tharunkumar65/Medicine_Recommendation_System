@@ -1,7 +1,7 @@
 ,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
 0,Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up
 1,Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
-2,Allergy,apply calamine,cover area with bandage,,use ice to compress itching
+2,Allergy,apply calamine,cover area with bandage,Keep the environment clean,use ice to compress itching
 3,Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep
 4,Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
 5,GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
@@ -22,7 +22,7 @@
 20,Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment
 21,Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics
 22,Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long
-23,AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up
+23,AIDS,avoid open cuts,wear ppe (Personal Protective Equipment) if possible,consult doctor,follow up
 24,Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor
 25,Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication
 26,Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication

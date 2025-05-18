@@ -4,9 +4,9 @@
 2,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
 3,Fungal infection,itching, skin_rash, dischromic _patches,
 4,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
-5,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
-6,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
-7,Fungal infection,itching, skin_rash, dischromic _patches,
+5,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic_patches,
+6,Fungal infection,itching, nodal_skin_eruptions, dischromic_patches,
+7,Fungal infection,itching, skin_rash, dischromic_patches,
 8,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
 9,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
 10,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
@@ -49,16 +49,16 @@
 47,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 48,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 49,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-50,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-51,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-52,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-53,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-54,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-55,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-56,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-57,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-58,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-59,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+50,Peptic ulcer disease,vomiting,loss_of_appetite, abdominal_pain, passage_of_gases
+51,Peptic ulcer disease,vomiting,  indigestion, abdominal_pain, passage_of_gases
+52,Peptic ulcer disease,indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+53,Peptic ulcer disease,vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+54,Peptic ulcer disease,vomiting, indigestion, abdominal_pain, passage_of_gases
+55,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+56,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+57,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+58,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+59,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 60,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 61,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 62,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
