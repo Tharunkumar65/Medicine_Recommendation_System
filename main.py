@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173"], methods=["GET", "POST"])
+CORS(app, origins=["https://mediguide-frontend.onrender.com"], methods=["GET", "POST"])
 
 # Load data and model
 sym_des = pd.read_csv("dataset/symtoms_df.csv")
