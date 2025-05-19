@@ -49,11 +49,11 @@
 47,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 48,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 49,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-50,Peptic ulcer disease,vomiting,loss_of_appetite, abdominal_pain, passage_of_gases
-51,Peptic ulcer disease,vomiting,  indigestion, abdominal_pain, passage_of_gases
-52,Peptic ulcer disease,indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-53,Peptic ulcer disease,vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-54,Peptic ulcer disease,vomiting, indigestion, abdominal_pain, passage_of_gases
+50,Peptic ulcer disease, vomiting,loss_of_appetite, abdominal_pain, passage_of_gases
+51,Peptic ulcer disease, vomiting,  indigestion, abdominal_pain, passage_of_gases
+52,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+53,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+54,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
 55,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
 56,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 57,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
